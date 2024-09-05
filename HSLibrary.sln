@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34316.72
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSLibrary2", "HSLibrary2.csproj", "{175F0FF9-26A1-428B-9CD3-377EBD72E2D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSLibrary", "HSLibrary.csproj", "{175F0FF9-26A1-428B-9CD3-377EBD72E2D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
