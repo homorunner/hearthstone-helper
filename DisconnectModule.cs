@@ -13,7 +13,7 @@ namespace HSLibrary
         {
             if (GUI.Button(new Rect(30, 10, 120, 50), ("拔线")))
             {
-                Network.Get()?.DisconnectFromGameServer();
+                Network.Get()?.DisconnectFromGameServer(Network.DisconnectReason.GameState_Reconnect);
             };
         }
     }
